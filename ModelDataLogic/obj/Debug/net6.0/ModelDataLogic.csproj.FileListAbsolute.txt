@@ -1,0 +1,14 @@
+E:\Aspirefox\C#\ShoppingCardWebApI2\ModelDataLogic\bin\Debug\net6.0\ModelDataLogic.deps.json
+E:\Aspirefox\C#\ShoppingCardWebApI2\ModelDataLogic\bin\Debug\net6.0\ModelDataLogic.runtimeconfig.json
+E:\Aspirefox\C#\ShoppingCardWebApI2\ModelDataLogic\bin\Debug\net6.0\ModelDataLogic.dll
+E:\Aspirefox\C#\ShoppingCardWebApI2\ModelDataLogic\bin\Debug\net6.0\ModelDataLogic.pdb
+E:\Aspirefox\C#\ShoppingCardWebApI2\ModelDataLogic\obj\Debug\net6.0\ModelDataLogic.csproj.AssemblyReference.cache
+E:\Aspirefox\C#\ShoppingCardWebApI2\ModelDataLogic\obj\Debug\net6.0\ModelDataLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Aspirefox\C#\ShoppingCardWebApI2\ModelDataLogic\obj\Debug\net6.0\ModelDataLogic.AssemblyInfoInputs.cache
+E:\Aspirefox\C#\ShoppingCardWebApI2\ModelDataLogic\obj\Debug\net6.0\ModelDataLogic.AssemblyInfo.cs
+E:\Aspirefox\C#\ShoppingCardWebApI2\ModelDataLogic\obj\Debug\net6.0\ModelDataLogic.csproj.CoreCompileInputs.cache
+E:\Aspirefox\C#\ShoppingCardWebApI2\ModelDataLogic\obj\Debug\net6.0\ModelDataLogic.dll
+E:\Aspirefox\C#\ShoppingCardWebApI2\ModelDataLogic\obj\Debug\net6.0\refint\ModelDataLogic.dll
+E:\Aspirefox\C#\ShoppingCardWebApI2\ModelDataLogic\obj\Debug\net6.0\ModelDataLogic.pdb
+E:\Aspirefox\C#\ShoppingCardWebApI2\ModelDataLogic\obj\Debug\net6.0\ModelDataLogic.genruntimeconfig.cache
+E:\Aspirefox\C#\ShoppingCardWebApI2\ModelDataLogic\obj\Debug\net6.0\ref\ModelDataLogic.dll
