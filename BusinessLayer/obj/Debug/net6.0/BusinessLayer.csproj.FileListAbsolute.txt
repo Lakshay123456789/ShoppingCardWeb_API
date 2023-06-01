@@ -1,0 +1,15 @@
+E:\Aspirefox\C#\ShoppingCardWebApI2\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+E:\Aspirefox\C#\ShoppingCardWebApI2\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+E:\Aspirefox\C#\ShoppingCardWebApI2\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+E:\Aspirefox\C#\ShoppingCardWebApI2\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+E:\Aspirefox\C#\ShoppingCardWebApI2\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Aspirefox\C#\ShoppingCardWebApI2\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+E:\Aspirefox\C#\ShoppingCardWebApI2\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+E:\Aspirefox\C#\ShoppingCardWebApI2\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\Aspirefox\C#\ShoppingCardWebApI2\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+E:\Aspirefox\C#\ShoppingCardWebApI2\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+E:\Aspirefox\C#\ShoppingCardWebApI2\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+E:\Aspirefox\C#\ShoppingCardWebApI2\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+E:\Aspirefox\C#\ShoppingCardWebApI2\BusinessLayer\bin\Debug\net6.0\ModelDataLogic.dll
+E:\Aspirefox\C#\ShoppingCardWebApI2\BusinessLayer\bin\Debug\net6.0\ModelDataLogic.pdb
+E:\Aspirefox\C#\ShoppingCardWebApI2\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
